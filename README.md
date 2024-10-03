@@ -1,1 +1,1 @@
-# GameOn-TON-Hackathon
+# GameOn TON Hackathon
