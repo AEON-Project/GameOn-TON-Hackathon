@@ -1,5 +1,8 @@
 # GameOn TON Hackathon
 
+![image](https://github.com/user-attachments/assets/d979f3f6-8c00-4582-ac9d-f18e400ad557)
+
+
 ## Technical Support
 - Participants should submit their technical questions in the Issues section of this repository. (Please ensure you have searched for similar questions before posting a new one.)
 - The AEON team will respond to queries promptly.
