@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/d979f3f6-8c00-4582-ac9d-f18e400ad557)
 
+AEON: https://aeon.xyz \
+GameOn TON Hackathon: https://aeon.xyz/gameon
 
 ## Technical Support
 - Participants should submit their technical questions in the Issues section of this repository. (Please ensure you have searched for similar questions before posting a new one.)
@@ -13,5 +15,8 @@ Please use the following format when submitting a question:
 - Issue Description
 - Steps Taken to Resolve the Issue
 - Code Snippets and Relevant Information
+
+## General FAQ
+General FAQ can be found at the bottom of the [website](https://aeon.xyz/gameon)
 
 ## Techinical FAQ
