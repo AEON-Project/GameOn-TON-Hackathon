@@ -17,6 +17,6 @@ Please use the following format when submitting a question:
 - Code Snippets and Relevant Information
 
 ## General FAQ
-General FAQ can be found at the bottom of the [website](https://aeon.xyz/gameon)
+General FAQ such as submission requirements and judging criteria can be found at the bottom of the [website](https://aeon.xyz/gameon)
 
 ## Techinical FAQ
