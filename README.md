@@ -20,3 +20,5 @@ Please use the following format when submitting a question:
 General FAQ such as submission requirements and judging criteria can be found at the bottom of this [website](https://aeon.xyz/gameon).
 
 ## Techinical FAQ
+### Where can I find AEON payment API and integration documentation?
+Check out the doc here: https://aeon-xyz.readme.io/docs/create-order-bot-telegram-cp
