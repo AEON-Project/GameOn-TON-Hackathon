@@ -25,3 +25,16 @@ Check out the doc here: https://aeon-xyz.readme.io/docs/create-order-bot-telegra
 
 ### How to get ApiKey and AppId of AEON payment API?
 Please fill the merchant onboarding form (included in the repo) and send to support@aeon.xyz.
+
+## Important Notes for Merchant Onboarding
+### List of countries where merchant onboarding is prohibited:
+North Korea, Russian Federation, Eritrea, Iran, Ukraine occupied territories, Afghanistan, Cuba, Belarus , Libya, Syria, Burundi, Central African Republic, Democratic Republic 
+of Congo, Côte d’Ivoire, Republic of Guinea, Republic of Guinea-Bissau, Lebanon, Republic of Mali, Myanmar, Nicaragua, Somalia, South Sudan, Sudan (North), Transnistria, 
+Occupied territories of Georgia, Northern Cyprus, Western Sahara, Ambazonia, Kosovo, Venezuela, Iraq, Yemen, Zimbabwe, China mainland
+
+### Prohibited Merchant Industry List
+(i) Child pornography and adult industry and/or any sale of sexual services;\
+(ii) Arms and ammunition;\
+(iii) Unlicensed financial services;\
+(iv) Illegal and/or unlicensed casinos, gaming and/or gambling (online and offline), including video games related to these activities;\
+(v) Illegal activities
