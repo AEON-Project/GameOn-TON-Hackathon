@@ -26,6 +26,9 @@ Check out the doc here: https://aeon-xyz.readme.io/docs/create-order-bot-telegra
 ### How to get ApiKey and AppId of AEON payment API?
 Please fill the merchant onboarding form (included in the repo) and send to support@aeon.xyz.
 
+### Where can I find TON documentation?
+Here's documentation of TON Connect: https://docs.ton.org/develop/dapps/ton-connect/overview. But we’ve already integrated TON Connect into AEON, so once you integrate with AEON, you’ll automatically have access to it at no additional cost.
+
 ## Important Notes for Merchant Onboarding
 ### List of countries where merchant onboarding is prohibited:
 North Korea, Russian Federation, Eritrea, Iran, Ukraine occupied territories, Afghanistan, Cuba, Belarus , Libya, Syria, Burundi, Central African Republic, Democratic Republic 
